@@ -4,9 +4,9 @@ This module is designed to work as the admin panel in TradeMaster system but it 
 
 **Current parts of the panel:**
 
- - Products
- - Orders
- - Bills
- - Identification
- - Ticketing 
- - Freelancers
+ - Products Management
+ - Orders Management
+ - Bills History
+ - Identification Process
+ - Ticketing System
+ - Freelancers List
