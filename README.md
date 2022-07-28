@@ -1,12 +1,34 @@
-# TM-AdminPanel
+# trademaster-web
 
-This module is designed to work as the admin panel in TradeMaster system but it can also be added to your websites in order to manage your CRUD operations through your websites and applications. The only thing you need yo do is to customize it to your need.
+## Project setup
+```
+npm install
+```
 
-**Current parts of the panel:**
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
- - Products Management
- - Orders Management
- - Bills History
- - Identification Process
- - Ticketing System
- - Freelancers List
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Run your end-to-end tests
+```
+npm run test:e2e
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
